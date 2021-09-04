@@ -1,6 +1,6 @@
 # Live demo
 
-Deployed Live using (Firebase Hosting)[https://tik-tok-clone-a983c.web.app/]
+Deployed Live using [Firebase Hosting](https://tik-tok-clone-a983c.web.app/)
 
 # Getting Started with Create React App
 
